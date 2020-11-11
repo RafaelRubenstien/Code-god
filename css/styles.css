@@ -1,17 +1,26 @@
-body{
-  background-color: #fceef5;
-}
-hr{
-  border-style:none;
-  border-top-style:dotted;
-  border-color: #e05297;
-  border-width: 4px;
-  width:10%;
-}
-h1{
-  color: #f3bad6;
-}
-h3{
-  color: #f3bad6;
+body {
+  background-color: #222831;
+  color:  #eeeeee;
 }
 
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #2d4059;
+  border-width: 4px;
+  width: 10%;
+}
+
+h1 {
+  color: #ff5722;
+}
+
+h3 {
+  color: #ff5722;
+}
+p{
+  color: #eeeeee;
+}
+a:hover{
+  color: #ff5722;
+}
