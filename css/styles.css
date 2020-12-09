@@ -2,7 +2,9 @@ body {
   background: linear-gradient(#ff4c68, #fff);
   color:  black;
 }
-
+.Contact{
+  text-align: center;
+}
 hr {
   border-style: none;
   border-top-style: dotted;
